@@ -3,8 +3,8 @@
   <a href="" target="_blank">Vairamuthu, Nagi Pragalathan</a>
 </h2>
 
-![image](https://user-images.githubusercontent.com/88650559/183739567-4bd4abfe-5871-4cfd-b8b2-dadd22186284.png)
 
+![image](https://user-images.githubusercontent.com/88650559/187175921-f8ace0e1-e628-4776-9921-a5e261db4b07.png)
 
 <br/>
 
