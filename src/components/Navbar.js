@@ -4,10 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import { Link } from "react-router-dom";
 import { MdSettingsAccessibility } from "react-icons/md";
-import { CgGitFork } from "react-icons/cg";
-import Button from "react-bootstrap/Button";
 import {
-  AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
@@ -40,7 +37,7 @@ function NavBar() {
           {" "}
           <h1
             style={{ color: "#white", marginTop: "10px" }}
-            className="img-fluid logo"
+            className="img-fluid logo purple"
             alt="brand"
           >
             <img
@@ -110,16 +107,6 @@ function NavBar() {
               >
                 <MdSettingsAccessibility color="white" /> Practice
               </Nav.Link>
-            </Nav.Item>
-            <Nav.Item className="fork-btn">
-              <Button
-                href="https://github.com/CodeJEC/WebSite"
-                target="_blank"
-                className="fork-btn-inner"
-              >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
-                <AiFillStar style={{ fontSize: "1.1em" }} />
-              </Button>
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>
