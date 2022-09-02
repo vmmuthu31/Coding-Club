@@ -23,6 +23,16 @@ html {
 	color: var(--imp-text-color) !important;
 }
 
+.club-mem{
+	width: 18rem;
+	float: left;
+	display: row;
+	
+}
+
+.mem-img{
+	border-radius: 50%;
+}
 button:focus {
 	box-shadow: none !important;
 }

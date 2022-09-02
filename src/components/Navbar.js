@@ -40,11 +40,6 @@ function NavBar() {
             className="img-fluid logo purple"
             alt="brand"
           >
-            <img
-              className="jeclogo"
-              alt=""
-              src="https://raw.githubusercontent.com/NagiPragalathan/WebForInsta/master/WhatsApp%20Image%202022-08-29%20at%201.04.15%20PM.jpeg"
-            />
             Code_JEC
           </h1>
         </Navbar.Brand>

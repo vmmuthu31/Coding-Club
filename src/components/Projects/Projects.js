@@ -21,7 +21,16 @@ function Projects() {
               isBlog={false}
               title="Quiz Application in Python"
               description="It is quiz application in python that runs in terminal."
-              link=""
+              link="https://realpython.com/python-quiz-application/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath="https://www.d120.org/assets/1/18/registration.jpg?5468"
+              isBlog={false}
+              title="Student Registration form in HTML"
+              description="It is javatpoint tutorial page where you can find the html tags."
+              link="https://www.javatpoint.com/html-registration-form"
             />
           </Col>
         </Row>
