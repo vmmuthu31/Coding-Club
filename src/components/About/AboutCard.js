@@ -19,7 +19,7 @@ function AboutCard() {
           <h1
             style={{
               fontSize: "1.1em",
-              marginRight: "16.5em",
+
               paddingBottom: "2px",
             }}
             className="purple"
